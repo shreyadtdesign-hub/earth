@@ -7,13 +7,6 @@ import { Section } from "@/components/ui/Section";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { Lightbox } from "@/components/ui/Lightbox";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
-import { cn } from "@/utils/cn";
-
-const spanForOrientation: Record<(typeof galleryImages)[number]["orientation"], string> = {
-  large: "sm:col-span-2 row-span-2 aspect-[16/10]",
-  landscape: "sm:col-span-2 aspect-[16/10]",
-  portrait: "aspect-[3/4]",
-};
 
 export function Gallery() {
   const ref = useScrollReveal<HTMLDivElement>();
@@ -28,7 +21,7 @@ export function Gallery() {
         className="mb-14"
       />
 
-      <div ref={ref} className="grid grid-cols-1 gap-4 sm:grid-cols-4">
+      <div ref={ref} className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
         {galleryImages.map((image, index) => (
           <button
             key={image.id}
@@ -36,13 +29,13 @@ export function Gallery() {
             data-reveal
             onClick={() => setActiveIndex(index)}
             aria-label={`Open ${image.alt} in gallery view`}
-            className={cn("group relative overflow-hidden rounded-[1.75rem]", spanForOrientation[image.orientation])}
+            className="group relative aspect-[4/5] overflow-hidden rounded-[1.75rem]"
           >
             <Image
               src={image.src}
               alt={image.alt}
               fill
-              sizes="(min-width: 640px) 40vw, 90vw"
+              sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 50vw"
               className="object-cover transition-transform duration-700 ease-[var(--ease-premium)] group-hover:scale-[1.06]"
             />
           </button>
