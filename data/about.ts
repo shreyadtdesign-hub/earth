@@ -6,7 +6,7 @@ export const aboutContent = {
     "We worked with artisans across three continents to bring stone, bronze, and timber into a single, quiet language. The result is a residence that asks for nothing and gives everything.",
   ],
   image: {
-    src: "https://images.unsplash.com/photo-r24fl734hA4?auto=format&fit=crop&w=1200&q=80",
-    alt: "Dining room with a wooden table and a chandelier",
+    src: "https://picsum.photos/seed/aurelio-about-interior/1200/1500",
+    alt: "Sunlit living room interior with stone finishes at Aurelio Residences",
   },
 } as const;

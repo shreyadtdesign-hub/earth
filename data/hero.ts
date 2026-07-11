@@ -9,8 +9,8 @@ export const heroVideos: HeroVideoSource[] = [
 ];
 
 export const heroPoster = {
-  src: "https://images.unsplash.com/photo-3mdHgIGJdrM?auto=format&fit=crop&w=2000&q=80",
-  alt: "Aerial view of a city skyline at dusk",
+  src: "https://picsum.photos/seed/aurelio-hero-poster/2000/1200",
+  alt: "Cinematic view of the Aurelio Residences penthouse at dusk",
 };
 
 export const heroContent = {

@@ -13,42 +13,42 @@ export const gallerySection = {
 export const galleryImages: GalleryImage[] = [
   {
     id: "g1",
-    src: "https://images.unsplash.com/photo-HrpTNbzm70k?auto=format&fit=crop&w=1200&q=80",
-    alt: "Dining room with a table and chairs",
+    src: "https://picsum.photos/seed/aurelio-g1/1200/1500",
+    alt: "Living room at golden hour",
   },
   {
     id: "g2",
-    src: "https://images.unsplash.com/photo-PUMw1z67VmQ?auto=format&fit=crop&w=1200&q=80",
-    alt: "Marble ensuite bathroom with bathtub and vanity",
+    src: "https://picsum.photos/seed/aurelio-g2/1200/1500",
+    alt: "Primary suite with skyline view",
   },
   {
     id: "g3",
-    src: "https://images.unsplash.com/photo-o-uPDNNSsDA?auto=format&fit=crop&w=1200&q=80",
-    alt: "Kitchen with a marble island and white cabinets",
+    src: "https://picsum.photos/seed/aurelio-g3/1200/1500",
+    alt: "Kitchen with marble island",
   },
   {
     id: "g4",
-    src: "https://images.unsplash.com/photo-vYqFeeM2XPk?auto=format&fit=crop&w=1200&q=80",
-    alt: "Elegant bathroom with marble walls and natural elements",
+    src: "https://picsum.photos/seed/aurelio-g4/1200/1500",
+    alt: "Spa bathroom in natural stone",
   },
   {
     id: "g5",
-    src: "https://images.unsplash.com/photo-TTvjeEHpwT8?auto=format&fit=crop&w=1200&q=80",
-    alt: "Modern home with a rooftop terrace",
+    src: "https://picsum.photos/seed/aurelio-g5/1200/1500",
+    alt: "Private terrace at dusk",
   },
   {
     id: "g6",
-    src: "https://images.unsplash.com/photo-aMFoc0cZENA?auto=format&fit=crop&w=1200&q=80",
-    alt: "Lobby with plush seating and gold-accented walls",
+    src: "https://picsum.photos/seed/aurelio-g6/1200/1500",
+    alt: "Lobby with bronze detailing",
   },
   {
     id: "g7",
-    src: "https://images.unsplash.com/photo-9mDxdrqxtOE?auto=format&fit=crop&w=1200&q=80",
-    alt: "Bookshelves and a sofa in a cozy reading nook",
+    src: "https://picsum.photos/seed/aurelio-g7/1200/1500",
+    alt: "Reading nook by the window",
   },
   {
     id: "g8",
-    src: "https://images.unsplash.com/photo-Fg6-6zK46aU?auto=format&fit=crop&w=1200&q=80",
-    alt: "Infinity pool overlooking the ocean",
+    src: "https://picsum.photos/seed/aurelio-g8/1200/1500",
+    alt: "Dining room with pendant lighting",
   },
 ];

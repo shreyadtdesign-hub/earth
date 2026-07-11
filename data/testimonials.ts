@@ -20,7 +20,7 @@ export const testimonials: Testimonial[] = [
     quote:
       "The light changes all day and somehow the apartment always feels like it was designed for that exact hour.",
     rating: 5,
-    avatar: { src: "https://images.unsplash.com/photo-sKu247m_AtY?auto=format&fit=crop&w=200&h=200&q=80", alt: "Portrait of Marguerite Sato" },
+    avatar: { src: "https://picsum.photos/seed/aurelio-avatar-1/200/200", alt: "Portrait of Marguerite Sato" },
   },
   {
     id: "t2",
@@ -29,7 +29,7 @@ export const testimonials: Testimonial[] = [
     quote:
       "I have lived in four cities and never in a building this quiet. The staff know your name by the second visit.",
     rating: 5,
-    avatar: { src: "https://images.unsplash.com/photo-8139kVrPU5o?auto=format&fit=crop&w=200&h=200&q=80", alt: "Portrait of Desmond Achebe" },
+    avatar: { src: "https://picsum.photos/seed/aurelio-avatar-2/200/200", alt: "Portrait of Desmond Achebe" },
   },
   {
     id: "t3",
@@ -38,6 +38,6 @@ export const testimonials: Testimonial[] = [
     quote:
       "Every finish holds up to close inspection. That is rare, and it is the reason we stayed after the first viewing.",
     rating: 5,
-    avatar: { src: "https://images.unsplash.com/photo-Y_VSTxJCYSo?auto=format&fit=crop&w=200&h=200&q=80", alt: "Portrait of Elena Voss" },
+    avatar: { src: "https://picsum.photos/seed/aurelio-avatar-3/200/200", alt: "Portrait of Elena Voss" },
   },
 ];

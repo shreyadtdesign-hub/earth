@@ -16,8 +16,8 @@ export const amenities: Amenity[] = [
     title: "Swimming Pool",
     description: "A sixty-foot infinity edge suspended above the city.",
     image: {
-      src: "https://images.unsplash.com/photo-KgybDitNR18?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Luxury infinity pool at sunset with lounge chairs",
+      src: "https://picsum.photos/seed/aurelio-pool/900/1100",
+      alt: "Infinity pool overlooking the skyline",
     },
   },
   {
@@ -25,8 +25,8 @@ export const amenities: Amenity[] = [
     title: "Clubhouse",
     description: "A private club for residents, open until midnight.",
     image: {
-      src: "https://images.unsplash.com/photo-Zp3SQbYFWzU?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Modern hotel lobby with circular seating and bar area",
+      src: "https://picsum.photos/seed/aurelio-clubhouse/900/1100",
+      alt: "Warmly lit residents clubhouse lounge",
     },
   },
   {
@@ -34,8 +34,8 @@ export const amenities: Amenity[] = [
     title: "Gym",
     description: "Full-floor fitness studio with curated equipment.",
     image: {
-      src: "https://images.unsplash.com/photo-asVNiNtSSXE?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Modern gym with treadmills and large windows",
+      src: "https://picsum.photos/seed/aurelio-gym/900/1100",
+      alt: "Minimalist fitness studio with natural light",
     },
   },
   {
@@ -43,8 +43,8 @@ export const amenities: Amenity[] = [
     title: "Spa",
     description: "A quiet wing for treatments, steam, and stillness.",
     image: {
-      src: "https://images.unsplash.com/photo-bBmupPTAHyw?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Spa salon therapy treatment room",
+      src: "https://picsum.photos/seed/aurelio-spa/900/1100",
+      alt: "Serene spa treatment room",
     },
   },
   {
@@ -52,8 +52,8 @@ export const amenities: Amenity[] = [
     title: "Landscaped Garden",
     description: "Terraced greenery designed by a Kyoto landscape studio.",
     image: {
-      src: "https://images.unsplash.com/photo-3_-9b-ZaUxA?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Aerial view of a modern rooftop garden",
+      src: "https://picsum.photos/seed/aurelio-garden/900/1100",
+      alt: "Terraced rooftop garden with mature planting",
     },
   },
   {
@@ -61,8 +61,8 @@ export const amenities: Amenity[] = [
     title: "Private Theatre",
     description: "A twelve-seat screening room with reference sound.",
     image: {
-      src: "https://images.unsplash.com/photo-GFNVoyqsmzg?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Dark private theatre room with rows of seats",
+      src: "https://picsum.photos/seed/aurelio-theatre/900/1100",
+      alt: "Private cinema room with plush seating",
     },
   },
   {
@@ -70,8 +70,8 @@ export const amenities: Amenity[] = [
     title: "Kids Play Area",
     description: "A supervised play wing built for imagination.",
     image: {
-      src: "https://images.unsplash.com/photo-TziLA6-9kCA?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Child playing in a colorful indoor playground",
+      src: "https://picsum.photos/seed/aurelio-kids/900/1100",
+      alt: "Bright and playful children's activity room",
     },
   },
   {
@@ -79,8 +79,8 @@ export const amenities: Amenity[] = [
     title: "Business Lounge",
     description: "Private meeting suites and a quiet co-working hall.",
     image: {
-      src: "https://images.unsplash.com/photo-bDABXzkqexg?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Modern conference room with frosted glass",
+      src: "https://picsum.photos/seed/aurelio-lounge/900/1100",
+      alt: "Elegant business lounge with meeting suites",
     },
   },
   {
@@ -88,8 +88,8 @@ export const amenities: Amenity[] = [
     title: "Sky Lounge",
     description: "A rooftop lounge for residents, open to the stars.",
     image: {
-      src: "https://images.unsplash.com/photo-FrLPeW1urbQ?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Rooftop bar at night with neon lights",
+      src: "https://picsum.photos/seed/aurelio-sky-lounge/900/1100",
+      alt: "Rooftop sky lounge at twilight",
     },
   },
   {
@@ -97,8 +97,8 @@ export const amenities: Amenity[] = [
     title: "Indoor Games",
     description: "Billiards, chess, and a private tasting room.",
     image: {
-      src: "https://images.unsplash.com/photo-eNKEH99kpAA?auto=format&fit=crop&w=900&h=1100&q=80",
-      alt: "Room with a pool table and couches",
+      src: "https://picsum.photos/seed/aurelio-games/900/1100",
+      alt: "Billiards room with warm wood paneling",
     },
   },
 ];

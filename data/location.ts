@@ -3,8 +3,8 @@ export const locationContent = {
   heading: "One point, the whole city within reach",
   address: "1 Aurelio Point, San Francisco, CA 94105",
   mapImage: {
-    src: "https://images.unsplash.com/photo-5wDq-27_zKI?auto=format&fit=crop&w=1600&q=80",
-    alt: "City skyline illuminated at dusk with calm water reflection",
+    src: "https://picsum.photos/seed/aurelio-map/1600/900",
+    alt: "Map showing Aurelio Residences location",
   },
   landmarks: [
     { label: "Financial District", distance: "6 min walk" },
